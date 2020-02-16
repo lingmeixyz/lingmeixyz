@@ -11,8 +11,8 @@ jobs:
         steps:
         - name: Checkout
           uses: actions/checkout@master
-        - run: yarn install vuepress
-        - run: yarn run build
+        - run: npm install vuepress
+        - run: npm run build
     
         - name: Deploy
           uses: peaceiris/actions-gh-pages@v2.5.0
