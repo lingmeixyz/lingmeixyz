@@ -14,8 +14,8 @@ jobs:
         - run: npm install vuepress
         - run: npm run build
     
-        - name: Deploy
-          uses: peaceiris/actions-gh-pages@v2.5.0
+        - name: Vuepress to GitHub Pages
+          uses: testthedocs/github-pages-deploy-action@0.0.2
 
           env:
             ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
