@@ -5,8 +5,8 @@ tagline: 杭州凌美科技淘宝数码店
 actionText: →
 actionLink: /zh/
 features:
-- title:  
-  details:  
+- title:  公告
+  details:  受疫情影响，所有业务暂停。
 - title:  
   details: 
 - title: 联系我们

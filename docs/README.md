@@ -6,7 +6,7 @@ actionText: →
 actionLink: /
 features:
 - title: 
-  details: 
+  details: 受疫情影响，所有业务暂停。
 - title: 
   details: 
 - title: contact
