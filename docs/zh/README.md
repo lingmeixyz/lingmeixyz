@@ -2,7 +2,7 @@
 home: true
 heroText: lingmei.xyz
 tagline: 杭州凌美科技淘宝数码店
-actionText: ChinaTrading Company
+actionText: 中国贸易公司
 actionLink: https://lingmeixyz.onesite.alibaba.com/
 features:
 - title:  公告
