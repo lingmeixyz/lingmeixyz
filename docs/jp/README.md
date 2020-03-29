@@ -2,8 +2,8 @@
 home: true
 heroText: lingmei.xyz
 tagline: 杭州凌美科技淘宝数码店
-actionText: →
-actionLink: /jp/
+actionText: ChinaTrading Company
+actionLink: https://lingmeixyz.onesite.alibaba.com/
 features:
 - title:  公告
   details:  受疫情影响，所有业务暂停。

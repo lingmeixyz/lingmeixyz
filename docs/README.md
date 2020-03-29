@@ -2,8 +2,8 @@
 home: true
 heroText: lingmei.xyz
 tagline: Hangzhou Lingmei technology Taobao Digitalstore
-actionText: →
-actionLink: /
+actionText: ChinaTrading Company
+actionLink: https://lingmeixyz.onesite.alibaba.com/
 features:
 - title: 
   details: 受疫情影响，所有业务暂停。
